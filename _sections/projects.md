@@ -3,7 +3,9 @@ title: Projects
 icon: fa-check
 order: 5
 ---
-
+<p>I received the B.Eng. Degree in the interdisciplinary area of electrical engineering and computer science from the Hohai University, 
+  Nanjing
+  
   <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
@@ -15,7 +17,7 @@ order: 5
       </div>
       <div class="item">
         <a href="#projects" class="image fit"><img src="{{ 'assets/images/remote.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
-        <header>https://ieeexplore.ieee.org/document/8243436/
+         <header>
           <h2><a href="https://ieeexplore.ieee.org/document/8243436/">Remote-controllable home system based load aggregation management system</a></h2>
           <h3>The system consists of three parts: Raspberry Pi services, Remote-Controllable Home System and Load Aggregation System. The Raspberry Pi has been used to record related data and the control instructions from all users and respond to the requests from all clients. The Remote-Controllable Home System consists of client controller and client server. The client controller has been developed by HTML5 to collect the user’s control instructions and present the related data.  The client server has been coded to respond to the control instructions from the individual user and load aggregators. The whole system is manifested by experimental prototype, which can aggregate household loads and control them remotely.</h3>
         </header>
