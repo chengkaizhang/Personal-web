@@ -3,8 +3,7 @@ title: Projects
 icon: fa-check
 order: 5
 ---
-<p>I received the B.Eng. Degree in the interdisciplinary area of electrical engineering and computer science from the Hohai University, 
-  Nanjing
+<p>I received the B.Eng. Degree in the interdisciplinary area of electrical engineering and computer science from the Hohai University
 
   <div class="row">
     <div class="4u 12u$(mobile)">
