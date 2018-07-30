@@ -1,0 +1,61 @@
+---
+title: Projects
+icon: fa-check
+order: 5
+---
+
+  <div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="" class="image fit"><img src="{{ 'assets/images/AIS_data_driven.png' | "" }}" alt="" /></a>
+        <header>
+          <h2>  AIS data driven vessel destination prediction</h2>
+          <h3>Navigation is one of the majority transportation in the world. However, the accurate destination prediction for on-the-way vessel is not available now. Through analysing  the historical AIS records and geographical information, we proposed a machine learning based vessel destination prediction through comparing on-the-way trajectory with historical trajectories approach. </h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <header>
+          <h3>Rhoncus Semper</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="https://people.ok.ubc.ca/zliu/people/" class="image fit"><img src="{{ 'assets/images/pic03.png' | "https://people.ok.ubc.ca/zliu/people/"}}" alt="https://people.ok.ubc.ca/zliu/people/" /></a>
+        <header>
+          <h2> <a href="https://people.ok.ubc.ca/zliu/people/"> Research Assitant in UBC</a></h2>
+          <h3>Currently working on the deep learning based trajectory analysis, data mining, pattern recognition for
+pipeline corrosion, smart agriculture and transfer learning based analysis for wind turbine.</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="http://en.hhu.edu.cn/" class="image fit"><img src="{{ 'assets/images/Hohai_University_logo.png' | "http://en.hhu.edu.cn/" }}" alt="http://en.hhu.edu.cn/" /></a>
+        <header>
+          <h2> <a href="http://en.hhu.edu.cn/">Undergraduate Research Assistant in Hohai</a></h2>
+          <h3>Led three projects and published three papers about smart home and smart energy. Researched Smart 
+            Home, High-Voltage Direct Current and Micro-grid in Professor Qian Chen’s Group. 
+            Researched Load Aggregation(LA) and Smart Home in Professor Haoming Liu’s Group.</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="http://106.14.5.35:8000/efeelture/product.html" class="image fit"><img src="{{ 'assets/images/E_feelture_COPYRIGHT.png' | relative_url }}" alt="http://106.14.5.35:8000/efeelture/product.html" /></a>
+        <header>
+          <h2>  <a href="http://106.14.5.35:8000/efeelture/product.html"> Founder, Former Leader in E_Feelture</a></h2>
+          <h3>Developed a <a href="https://ieeexplore.ieee.org/document/8243436/"> 
+            multifunctional remote-controllable home system based load aggregation management system</a>. On the one hand, this system
+            combines the Load Aggregators with Smart Home and presents an effective and practical method to realize household load 
+            management. Developed <a href="https://patents.google.com/patent/CN107995263A/en"> 
+            a multi-terminal smart home control platform based on cloud computing and raspberry pi </a>. </h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
+        <header>
+          <h3>Orci Convallis</h3>
+        </header>
+      </div>
+    </div>
+  </div>
