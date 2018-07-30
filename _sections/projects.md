@@ -32,11 +32,10 @@ order: 5
         </header>
       </div>
       <div class="item">
-             <a href="#projects"><img src="{{ 'assets/images/fuzzy.jpg' | "" }}" alt="" /></a>
+         <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
         <header>
-          <h2> Fuzzy Control based Self-Adaptive Illumination System</h2>
-          <h3>Smart LED illumination system can maintain a comfortable level of indoor illumination by changing the quantity of Luminous flux of LED lamp automatically based on the environment needed. This paper propos-es a new control strategy for the Self-Adaptive illuminating system. SISO fuzzy control is used to avoid the durative actions of the system when the indoor illumination is close to the system operating value. It is man-ifested by experimental prototype, that the control scheme is correct and effective.</h3>
-        </header>
+          <h3>Orci Convallis</h3>
+        </header>   
       </div>
     </div>
     <div class="4u 12u$(mobile)">
@@ -49,9 +48,10 @@ order: 5
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
+        <a href="#projects"><img src="{{ 'assets/images/fuzzy.png' | relative_url }}" alt="" /></a>
         <header>
-          <h3>Orci Convallis</h3>
+          <h2> Fuzzy Control based Self-Adaptive Illumination System</h2>
+          <h3>Smart LED illumination system can maintain a comfortable level of indoor illumination by changing the quantity of Luminous flux of LED lamp automatically based on the environment needed. This paper propos-es a new control strategy for the Self-Adaptive illuminating system. SISO fuzzy control is used to avoid the durative actions of the system when the indoor illumination is close to the system operating value. It is man-ifested by experimental prototype, that the control scheme is correct and effective.</h3>
         </header>
       </div>
     </div>
