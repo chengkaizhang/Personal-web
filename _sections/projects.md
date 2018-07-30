@@ -19,16 +19,13 @@ order: 5
           <h2><a href="https://ieeexplore.ieee.org/document/8243436/">Remote-controllable home system based load aggregation management system</a></h2>
           <h3>The system consists of three parts: Raspberry Pi services, Remote-Controllable Home System and Load Aggregation System. The Raspberry Pi has been used to record related data and the control instructions from all users and respond to the requests from all clients. The Remote-Controllable Home System consists of client controller and client server. The client controller has been developed by HTML5 to collect the user’s control instructions and present the related data.  The client server has been coded to respond to the control instructions from the individual user and load aggregators. The whole system is manifested by experimental prototype, which can aggregate household loads and control them remotely.</h3>
         </header>
-              </div>
+       </div>
       <div class="item">
-        <a href="http://en.hhu.edu.cn/" class="image fit"><img src="{{ 'assets/images/Hohai_University_logo.png' | "http://en.hhu.edu.cn/" }}" alt="http://en.hhu.edu.cn/" /></a>
+        <a href="#projects"><img src="{{ 'assets/images/fuzzy.jpg' | "" }}" alt="" /></a>
         <header>
-          <h2> <a href="http://en.hhu.edu.cn/">Undergraduate Research Assistant in Hohai</a></h2>
-          <h3>Led three projects and published three papers about smart home and smart energy. Researched Smart 
-            Home, High-Voltage Direct Current and Micro-grid in Professor Qian Chen’s Group. 
-            Researched Load Aggregation(LA) and Smart Home in Professor Haoming Liu’s Group.</h3>
+          <h2> Fuzzy Control based Self-Adaptive Illumination System</h2>
+          <h3>Smart LED illumination system can maintain a comfortable level of indoor illumination by changing the quantity of Luminous flux of LED lamp automatically based on the environment needed. This paper propos-es a new control strategy for the Self-Adaptive illuminating system. SISO fuzzy control is used to avoid the durative actions of the system when the indoor illumination is close to the system operating value. It is man-ifested by experimental prototype, that the control scheme is correct and effective.</h3>
         </header>
-      </div>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
